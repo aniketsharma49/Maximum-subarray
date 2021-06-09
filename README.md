@@ -1,2 +1,2 @@
 # Maximum-subarray
-C++ code of maximum subarray problem
+C++ code for maximum subarray problem
